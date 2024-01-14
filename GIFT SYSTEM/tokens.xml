@@ -1,0 +1,11 @@
+<config>
+    <config>
+<!--
+<token code="ABCD-EFGH-IJKL-MNOP" prize="1000" used="false" player="no-one" />
+-->
+
+<token code="Token" prize="10000" used="false" player="no-one" />
+
+
+    </config>
+</config>
